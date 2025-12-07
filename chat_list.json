@@ -1,0 +1,15 @@
+[
+  {
+    "source": "@arcraiders2pro",  # тестовый канал
+    "destination": ["@ecompremium"],  # твой канал
+    "filters": [],  # опционально: ключевые слова для фильтра
+    "blacklist": []  # опционально: слова для игнора
+  },
+  {
+    "source": "@valorant_prop",
+    "destination": ["@ecompremium"],
+    "filters": [],
+    "blacklist": []
+  }
+  // ... добавь все 34, копируй структуру
+]
